@@ -25,4 +25,4 @@ list. Contact us (see: AUTHORS) and we'll add you.
 * "HerbFargus"
 * Stefan "gizmo98"
 
-For most recent list see also https://github.com/RetroPie/RetroPie-Setup/graphs/contributors
+For most recent list see also https://github.com/quadeddie/RetroPie-Setup/graphs/contributors
